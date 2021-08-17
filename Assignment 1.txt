@@ -1,0 +1,17 @@
+git inti :- Initialize the git repository
+git status :- Gives status of all files in staging area
+git add -A :- Add files to staging area
+git commit -m"message" :- Commit the changes from staging area with message as given
+git diff :- Tells about the changes in file
+git reset :- 
+git log :- Complete information about changes made in file 
+git checkout --{{file name}} :- Mevert back the changes
+git branch
+git branch {{branchname}} :- Get a branch
+git checkout {{branch name}} :- Switches to that branch
+git merge {{branchname}} :- Merges branch
+git branch -d {{branchname}} :- Deletes the branch
+{{any command in git}} -h :- Lists the option which can be used for a particular command
+git clone {{repo url}} :- Copies repository to local device
+git push :- Upload the changed code 
+
